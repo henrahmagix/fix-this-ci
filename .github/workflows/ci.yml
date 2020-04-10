@@ -1,5 +1,6 @@
 name: Run some CI
 # This workflow is triggered on pushes to the repository.
+# edit to trigger push
 on: [push]
 
 jobs:
